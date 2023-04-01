@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.30)  31 MAR 2023 13:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.30)  1 APR 2023 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -380,7 +380,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count303
 \@thisrulewidth=\dimen181
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 15.
+Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 
 (C:\Users\Sebastian Hadley\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
 backend-pdftex.def
@@ -394,24 +394,24 @@ LaTeX Warning: Label `fig:FirstFFNNDecision' multiply defined.
 )
 \openout1 = `MockReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 (C:\Users\Sebastian Hadley\AppData\Local\Programs\MiKTeX\tex/latex/graphics\col
 or.sty
@@ -425,7 +425,7 @@ Package color Info: Driver file: pdftex.def on input line 149.
 
 (C:\Users\Sebastian Hadley\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mat
 hcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 16.
+Package hyperref Info: Link coloring ON on input line 17.
  (MockReport.out) (MockReport.out)
 \@outlinefile=\write3
 \openout3 = `MockReport.out'.
@@ -457,31 +457,31 @@ topdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 22.
+(Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 22.
+(Font)              <5> on input line 23.
  [1
 
 {C:/Users/Sebastian Hadley/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 49.
+(Font)              <9> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 49.
+(Font)              <6> on input line 50.
 <Question1Images/1AFinalFFNNOutput.png, id=25, 394.5942pt x 312.9291pt>
 File: Question1Images/1AFinalFFNNOutput.png Graphic file (type png)
 <use Question1Images/1AFinalFFNNOutput.png>
 Package pdftex.def Info: Question1Images/1AFinalFFNNOutput.png  used on input l
-ine 67.
+ine 68.
 (pdftex.def)             Requested size: 173.56177pt x 137.64624pt.
  [2 <./Question1Images/1AFinalFFNNOutput.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7963) has occurred while \output is active []
 
  [3]
-<Question1Images/firstFFNNOutput.png, id=47, 394.5942pt x 312.9291pt>
+<Question1Images/firstFFNNOutput.png, id=51, 394.5942pt x 312.9291pt>
 File: Question1Images/firstFFNNOutput.png Graphic file (type png)
 <use Question1Images/firstFFNNOutput.png>
 Package pdftex.def Info: Question1Images/firstFFNNOutput.png  used on input lin
-e 119.
+e 126.
 (pdftex.def)             Requested size: 173.56177pt x 137.64624pt.
 
 [4 <./Question1Images/firstFFNNOutput.png>] (MockReport.aux)
@@ -492,11 +492,11 @@ Package rerunfilecheck Info: File `MockReport.out' has not changed.
 (rerunfilecheck)             Checksum: AA72A75D357C6A2BA7686F3CF7ABE67F;146.
  ) 
 Here is how much of TeX's memory you used:
- 8794 strings out of 475385
- 143406 string characters out of 2771679
- 491273 words of memory out of 3000000
- 30053 multiletter control sequences out of 15000+600000
- 472908 words of font info for 40 fonts, out of 8000000 for 9000
+ 8801 strings out of 475385
+ 143471 string characters out of 2771679
+ 491311 words of memory out of 3000000
+ 30056 multiletter control sequences out of 15000+600000
+ 473420 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,846b,436s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Sebastian Hadley/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
@@ -507,10 +507,13 @@ n Hadley/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b><C:/Users/Sebastian Hadley/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr10.pfb><C:/Users/Sebastian Hadley/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Sebastian Hadley/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on MockReport.pdf (4 pages, 144103 bytes).
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Sebastian Ha
+dley/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:
+/Users/Sebastian Hadley/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmtt9.pfb>
+Output written on MockReport.pdf (4 pages, 171214 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
  19 words of extra memory for PDF output out of 10000 (max. 10000000)
 
